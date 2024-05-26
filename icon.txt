@@ -1,0 +1,4 @@
+glass <i class="fa-solid fa-magnifying-glass"></i>
+bars <i class="fa-solid fa-bars"></i>
+location <i class="fa-solid fa-location-dot"></i>
+cart <i class="fa-solid fa-cart-shopping"></i>
